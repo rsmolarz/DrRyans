@@ -1,0 +1,17 @@
+# WordPress
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/ai1wm-backups/
+wp-config.php
+*.log
+*.sql
+*.tar
+*.zip
+*.gz
+.env
+vendor/
+node_modules/
+.DS_Store
+Thumbs.db
