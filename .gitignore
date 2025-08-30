@@ -10,7 +10,6 @@ wp-config.php
 *.tar
 *.zip
 *.gz
-.env
 vendor/
 node_modules/
 .DS_Store
