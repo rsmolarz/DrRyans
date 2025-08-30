@@ -3,13 +3,14 @@ wp-content/uploads/
 wp-content/cache/
 wp-content/upgrade/
 wp-content/backups/
-wp-content/ai1wm-backups/
 wp-config.php
-*.log
+backup_*
 *.sql
 *.tar
 *.zip
 *.gz
+*.log
+.env
 vendor/
 node_modules/
 .DS_Store
